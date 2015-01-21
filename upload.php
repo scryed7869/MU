@@ -1,5 +1,7 @@
 <?php
 
+
+
 // A list of permitted file extensions
 $allowed = array('png', 'jpg', 'gif','zip');
 
